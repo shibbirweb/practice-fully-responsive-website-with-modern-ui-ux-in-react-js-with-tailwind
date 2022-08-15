@@ -9,7 +9,7 @@ const CTA = () => (
     </div>
 
     <div className={`${styles.flexCenter} sm:ml-10 ml-0 sm:mt-0 mt-10`}>
-      <Button styles="rounded-[10px]"/>
+      <Button />
     </div>
   </section>
 )
